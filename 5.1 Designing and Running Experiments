@@ -1,0 +1,72 @@
+# MVP Techniques — Notes
+
+## 1. MVP techniques: Emails, shadows, 404, and coming soon
+### Key ideas
+- MVPs are experiments to **test demand and assumptions** quickly and cheaply.
+- You can validate interest **without building the product** by creating signals that measure intent.
+
+### Techniques covered
+- **Email tests**
+  - Send a short message describing the value proposition or offering a waitlist.
+  - Measure open rates, click-throughs, and replies as signals of interest.
+- **Shadow buttons**
+  - Place a clickable UI element for a feature that doesn't exist yet.
+  - Track clicks to measure demand; respond with “coming soon” or invite to beta.
+- **404 / Coming Soon pages**
+  - Create pages or links for features that don’t exist yet to measure visits and signups.
+  - Use CTAs on "coming soon" pages to capture prospective users' emails.
+- **Principle**
+  - Focus on **learning signals** (clicks, signups, replies) rather than polished delivery.
+
+---
+
+## 2. More MVP techniques: Explainer, fake landing page, and pitch experiments
+### Key ideas
+- Test messaging and perceived value **before** building the product.
+- Use simple artifacts to simulate product presence and measure reaction.
+
+### Techniques covered
+- **Explainer videos**
+  - Short demos showing the product concept and how it solves the problem.
+  - Measure signups or interest after people watch the video (Dropbox example).
+- **Fake landing pages**
+  - Build a realistic landing page describing the product, features, and pricing.
+  - Use analytics and signup CTAs to measure conversion and interest.
+  - Good for testing positioning, pricing hints, and headline effectiveness.
+- **Pitch experiments**
+  - Present the idea verbally or with slide decks to potential customers or stakeholders.
+  - Observe questions, objections, and enthusiasm as validation signals.
+
+---
+
+## 3. Even more MVP techniques: Concierge, piecemeal, and Wizard of Oz
+### Key ideas
+- Deliver the promised value **manually** or by stitching tools together to learn the real user need and workflow.
+- These techniques let you observe real behavior and refine the product before automating.
+
+### Techniques covered
+- **Concierge MVP**
+  - Manually perform the service for early customers (high-touch).
+  - Learn user needs deeply and uncover edge cases.
+- **Piecemeal MVP**
+  - Combine off-the-shelf tools and services (e.g., forms, spreadsheets, Zapier) to simulate product flows.
+  - Rapidly prototype end-to-end experience without building infrastructure.
+- **Wizard of Oz MVP**
+  - Make the product appear automated while humans do the backend work.
+  - Useful to test UX and demand for complex features before engineering automation.
+
+---
+
+## 4. Email-based MVPs
+### Key ideas
+- Email is a low-friction channel to validate interest and measure early traction.
+- It’s effective for testing messaging, segmentation, and call-to-action effectiveness.
+
+### Tactics
+- **Write a targeted email** describing the problem and proposed solution; include a clear CTA (signup, reply, schedule).
+- **Segment recipients** to test different value props or audiences.
+- **Measure**: open rate, click-through rate, reply rate, conversion to signups or meeting bookings.
+- **Follow-up flow**: use follow-up emails to re-engage and test persistence of interest.
+- **Interpretation**: a high engagement signal indicates potential product-market fit; low engagement suggests rework on value proposition or audience.
+
+---
