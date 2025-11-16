@@ -15,7 +15,7 @@ As a Senior Data Scientist, my role increasingly requires skills traditionally r
 * **Leading discovery** with stakeholders and defining clear acceptance criteria.
 * **Communicating roadmaps** and managing expectations.
 
-This resource serves as my personal PM playbook, ensuring that my data science solutions are not just technically sound, but are also **viable products** that solve critical business problems.
+This resource serves as a personal PM playbook, ensuring that data science solutions are not just technically sound, but are also **viable products** that solve critical business problems.
 
 ---
 
