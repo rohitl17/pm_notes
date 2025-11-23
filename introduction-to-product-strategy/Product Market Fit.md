@@ -58,7 +58,7 @@ Teams that excel across all three dimensions deliver outstanding products.
 
 ---
 
-## 5. The STAT Document
+## 5. The STRAT Document
 A STAT document brings alignment and clarity before building a product. It answers:
 
 - **What** are we building?  
