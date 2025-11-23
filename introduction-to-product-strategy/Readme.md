@@ -63,3 +63,9 @@ As DS/ML moves closer to product engineering, product literacy helps you:
 - Relationship between business strategy and product strategy  
 - How DS initiatives support revenue and cost goals  
 - Real examples of data-driven product strategy alignment
+
+## 📊 Product Strategy Flow Diagram
+
+You can view the full Mermaid diagram here:
+
+➡️ [Product Strategy Flow Diagram](../diagrams/flow.png)
