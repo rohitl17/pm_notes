@@ -17,7 +17,7 @@ A strong product strategy typically includes the following components:
 
 ---
 
-### ### 2.1 Product Vision  
+### 2.1 Product Vision  
 The vision communicates **why** the product exists.  
 It should be concise, inspirational, and directional.
 
