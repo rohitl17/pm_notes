@@ -69,3 +69,6 @@ As DS/ML moves closer to product engineering, product literacy helps you:
 You can view the full Mermaid diagram here:
 
 ➡️ [Product Strategy Flow Diagram](./flow.png)
+
+<img width="1833" height="604" alt="image" src="https://github.com/user-attachments/assets/3c7f22f1-2f8e-49ae-a8e3-b4db26884606" />
+
