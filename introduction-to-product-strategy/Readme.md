@@ -56,7 +56,7 @@ As DS/ML moves closer to product engineering, product literacy helps you:
 
 ### ✔ Product Excellence  
 - Intersection of strategy, design, and execution  
-- Role of STAT documents (What, Why, Who)  
+- Role of STRAT documents (What, Why, Who)  
 - How product thinking enhances DS/ML execution  
 
 ### ✔ Product Strategy Working Backwards  
