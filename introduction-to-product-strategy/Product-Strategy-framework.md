@@ -1,4 +1,4 @@
-# Business Strategy and Product Strategy
+# Business Strategy and Product Strategy Framework
 
 ## 1. Relationship Between Business Strategy and Product Strategy
 
@@ -11,7 +11,7 @@ A product strategy must **directly support** the business strategy. If a busines
 
 ---
 
-## 2. Product Strategy Framework
+### 2. Product Strategy Framework
 
 A strong product strategy typically includes the following components:
 
