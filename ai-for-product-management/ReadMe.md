@@ -87,7 +87,6 @@ Each module has its own Markdown file with detailed notes and examples.
 
 ---
 ## High-Level Product Strategy Flow (Mermaid)
-flowchart LR
     BS["Business Strategy"] --> PS["Product Strategy"]
     PS --> OS["Opportunity Space"]
     OS --> PV["Product Vision"]
@@ -97,8 +96,7 @@ flowchart LR
     OKR --> EX["Execution & Roadmap"]
     EX --> PMF["Product-Market Fit"]
 -----
-Product Management Lifecycle (PMLC) Diagram
-flowchart LR
+## Product Management Lifecycle (PMLC) Diagram
     BO["Phase 0: Define Business Outcomes"] --> D["Phase 1: Discover"]
     D --> V["Phase 2: Validate"]
     V --> B["Phase 3: Build"]
