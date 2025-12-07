@@ -173,21 +173,4 @@ This enables me to contribute directly to **growth, engagement, and feature stra
 
 ---
 
-## Example Use Cases Where I Apply These Concepts
-
-The principles from this course apply directly to my work on:
-
-- **RFP response automation** (GenAI + retrieval systems)  
-- **Churn prediction** and customer risk scoring  
-- **AI assistants** for support and internal knowledge search  
-- **Order and part mapping** using ML  
-- **Operational analytics dashboards** tied to product metrics  
-
-Across all these projects, I now think in terms of:
-
-- **Business outcomes**  
-- **User journeys & friction points**  
-- **Product lifecycle phases (PMLC)**  
-- **Product-led growth and product-led organization principles**
-
-This course strengthened the bridge between my **Data Science expertise** and **Product Management mindset**, enabling me to build AI systems that deliver measurable customer and business value.
+This course strengthened the bridge between my **Data Science skillset** and **Product Management mindset**, enabling me to build AI systems that deliver measurable customer and business value.
