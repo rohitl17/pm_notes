@@ -1,8 +1,6 @@
 # AI for Product Management — Course Notes  
 _Pendo × Google Cloud × Mind the Product_  
 
-Author: **Rohit Lokwani — Senior Data Scientist | AI/ML Product Builder**
-
 ---
 
 ## Overview
