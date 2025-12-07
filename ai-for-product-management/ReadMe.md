@@ -105,73 +105,89 @@ Each module has its own Markdown file with detailed notes and examples.
     E --> I["Phase 6: Iterate"]
     I --> D
 -----
-How This Course Improves My Data Science Work
-1. User-Centric Perspective
+## How This Course Improves My Data Science Work
 
-Instead of only asking:
+### **1. User-Centric Perspective**
 
-“Can we model this?”
+Before this course, my default question was often:
 
-I now also ask:
+- *“Can we model this?”*
 
-“Who is this for?”
+Now I also ask:
 
-“What problem are we solving?”
+- *“Who is this for?”*  
+- *“What problem are we solving?”*  
+- *“How will we know it worked in the real world?”*
 
-“How will we know it worked in the real world?”
+This shifts the focus from technical accuracy to **customer value and product impact**.
 
-2. Faster Discovery With AI
+---
 
-AI helps with:
+### **2. Faster Discovery With AI**
 
-Clustering support tickets and VOC data
+AI accelerates the Discover and Evaluate phases by helping me:
 
-Summarizing interviews and surveys
+- Cluster support tickets and VOC data  
+- Summarize customer interviews and surveys  
+- Identify recurring themes, friction, and unmet needs  
+- Compare behaviors between churned vs retained customers  
 
-Identifying themes and pain points
+This enables **faster insights** and **more informed product decisions**.
 
-Comparing retained vs churned users
+---
 
-This accelerates the Discover and Evaluate phases.
+### **3. Better Validation and Prototyping**
 
-3. Better Validation and Prototyping
+AI/LLMs make early validation more effective by allowing me to:
 
-Use LLMs to quickly build interactive prototypes
+- Build lightweight, interactive prototypes quickly  
+- Test concepts with real users before investing in engineering  
+- Reduce the risk of building the wrong feature or solving the wrong problem  
 
-Test concepts with real users earlier
+This creates a more **evidence-based validation workflow**.
 
-Reduce the risk of building the wrong thing
+---
 
-4. Stronger Cross-Functional Communication
+### **4. Stronger Cross-Functional Communication**
 
-Using PRDs, user stories, and acceptance criteria, supported by AI tools, I can:
+With AI tools supporting PRDs, user stories, and acceptance criteria, I can:
 
-Communicate requirements more clearly
+- Communicate product requirements more clearly  
+- Translate technical complexity into business value  
+- Align engineering, design, marketing, and GTM teams  
 
-Translate technical details into business value
+This strengthens my ability to operate as a **technical product partner**, not just a model builder.
 
-Align engineering, design, and GTM teams
+---
 
-5. Linking ML to Product-Led Growth
+### **5. Linking ML to Product-Led Growth (PLG)**
 
-AI and analytics help:
+AI and analytics enhance PLG strategies by helping me:
 
-Identify “Aha!” moments
+- Identify “Aha!” moments in user behavior  
+- Detect retention-driving or churn-driving patterns  
+- Surface features correlated with conversion  
+- Support PLG decisions with data rather than intuition  
 
-Find behavior patterns linked to retention
+This enables me to contribute directly to **growth, engagement, and feature strategy**.
 
-Surface features that drive conversion
+---
 
-Support PLG strategies with data rather than guesses
+## Example Use Cases Where I Apply These Concepts
 
-Operational analytics dashboards tied to product metrics
+The principles from this course apply directly to my work on:
 
-For each, I now think in terms of:
+- **RFP response automation** (GenAI + retrieval systems)  
+- **Churn prediction** and customer risk scoring  
+- **AI assistants** for support and internal knowledge search  
+- **Order and part mapping** using ML  
+- **Operational analytics dashboards** tied to product metrics  
 
-Business outcomes
+Across all these projects, I now think in terms of:
 
-User journeys
+- **Business outcomes**  
+- **User journeys & friction points**  
+- **Product lifecycle phases (PMLC)**  
+- **Product-led growth and product-led organization principles**
 
-Product lifecycle phases
-
-PLG and product-led organization principles
+This course strengthened the bridge between my **Data Science expertise** and **Product Management mindset**, enabling me to build AI systems that deliver measurable customer and business value.
