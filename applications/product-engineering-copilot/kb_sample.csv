@@ -1,0 +1,5 @@
+Component,Capability,SLA,Notes
+Auth Service,OIDC login,99.95%,Backs consumer and partner portals
+API Gateway,Rate limiting,99.9%,Shared between mobile + partner APIs
+Event Bus,Telemetry fan-out,99.5%,Built on Kafka + Schema Registry
+
